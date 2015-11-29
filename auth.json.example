@@ -1,0 +1,8 @@
+{
+	"email" : "ur email here",
+	"password" : "ur password here",
+	"youtube_api_key": "make a api key at code.developers.google.com",
+	"imgflip_username": "imgflip username goes here",
+	"imgflip_password": "imgflip pass goes here",
+	"wolfram_api_key": "google it. its free"
+}
